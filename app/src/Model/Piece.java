@@ -1,3 +1,7 @@
+package Model;
+
+import Model.Color;
+
 public class Piece {
     private Color color ;
     private int position;
